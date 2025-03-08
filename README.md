@@ -3,12 +3,11 @@
 I enjoy Developing
 
 <div style="display: flex; gap: 10px;">
-  <img src="assets/flutter.png" alt="Flutter" width="150"/>
-  <img src="assets/dart.png" alt="Dart" width="150"/>
-  <img src="assets/php.png" alt="PhP" width="150"/>
-  <img src="assets/yii2.png" alt="Yii2" width="150"/>
+  <img src="assets/flutter.png" alt="Flutter" width="100"/>
+  <img src="assets/dart.png" alt="Dart" width="100"/>
+  <img src="assets/php.png" alt="PhP" width="100"/>
+  <img src="assets/yii2.png" alt="Yii2" width="100"/>
 </div>
-
 
 <!--
 **efraimkasenga/efraimkasenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
