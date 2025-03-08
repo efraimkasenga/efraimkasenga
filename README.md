@@ -2,7 +2,10 @@
 
 I enjoy Developing
 
-|![flutter](assets/flutter.png)|![dart](assets/dart.png)|![yii2](assets/yii2.png)|
+![flutter](assets/flutter.png) 
+![dart](assets/dart.png)
+![yii2](assets/yii2.png)
+
 
 <!--
 **efraimkasenga/efraimkasenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
