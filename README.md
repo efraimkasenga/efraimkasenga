@@ -2,11 +2,11 @@
 
 I enjoy Developing
 
-<div style="display: flex; gap: 10px;">
-  <img src="assets/flutter.png" alt="Flutter" width="100"/>
-  <img src="assets/dart.png" alt="Dart" width="100"/>
-  <img src="assets/php.png" alt="PhP" width="100"/>
-  <img src="assets/yii2.png" alt="Yii2" width="100"/>
+<div  align="center">
+  <img src="assets/flutter.png" alt="Flutter" width="50"/>
+  <img src="assets/dart.png" alt="Dart" width="50"/>
+  <img src="assets/php.png" alt="PhP" width="50"/>
+  <img src="assets/yii2.png" alt="Yii2" width="50"/>
 </div>
 
 <!--
